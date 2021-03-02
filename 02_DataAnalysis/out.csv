@@ -1,13 +1,7 @@
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
-Supplier Z,3321,2014-02-24
+Supplier Name,Invoice Number,Part Number,Cost,Purchase Date
+Supplier X,001-1001,5467,$750.00,2014-01-20
+Supplier X,001-1001,5467,$750.00,2014-01-20
+Supplier Z,920-4804,3321,$615.00,2014-02-03
+Supplier Z,920-4804,3321,$615.00,2014-10-14
+Supplier Z,920-4804,3321,$615.00,2014-02-17
+Supplier Z,920-4804,3321,$615.00,2014-02-24
