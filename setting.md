@@ -14,8 +14,8 @@ jt -r
 ## Nbextensions List
 ---
 ### default
-* Nbextensions dashboard tab
-* Nbextensions edit menu item
+- Nbextensions dashboard tab
+- Nbextensions edit menu item
 ---
 ### add
 1. Code prettify : 코드 자동 정렬
