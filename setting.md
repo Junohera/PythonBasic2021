@@ -1,5 +1,16 @@
 # theme & extension
 
+## JT
+#### 변경 예시
+```
+jt -t chesterish -f roboto -fs 9 -altp -tfs 11 -nfs 10 -cellw 96% -cursw 8 -T -N
+```
+#### 원상복구
+```
+jt -r
+```
+
+
 ## Nbextensions List
 ---
 ### default
