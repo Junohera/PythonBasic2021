@@ -63,3 +63,4 @@ jt -r
 1. Table of Contents (2) : 마크다운 기준 목차역할 수행(실행중위치 확인도 가능)
 1. Variable Inspector : 현재의 노트북의 변수들 정보 조회 type, shape, size, length 등등
 1. hinterland : Tab키를 누르지않아도 항상 눌러주는것처럼
+1. Runtools : Cell을 누르고 실행을 선택해야하는데 아예 외부로 빼주고, 사실 Alt + X를 누르면 위에서부터 전부실행되는 것때문에 사용
