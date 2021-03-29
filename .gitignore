@@ -200,3 +200,4 @@ dmypy.json
 05_OpenCV/image/margot-robbie-suicide-squad-image-1920x1080.jpg
 05_OpenCV/image/spiderman.jpg
 05_OpenCV/image/suicide-squad-2016-1920x1080.jpg
+05_OpenCV/yolo/yolov3.weights
